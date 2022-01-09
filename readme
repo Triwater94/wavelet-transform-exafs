@@ -5,7 +5,7 @@ DOI: 10.13140/RG.2.2.11521.61289/1
 
 Designed by Miao Wang
 
-MorletE, a Wavelet transform (Morlet wavelet) program for EXAFS (data from Athena). It includes 3 documents: the .exe (can be directly executed in a Windows system), the manual (.pdf), and the source code by C Language (.c).
+MorletE, a Wavelet transform (Morlet wavelet) program for EXAFS (data from Athena).
 
 Please do not hesitate to use this program, as well as the source code. It is simple and free. Hope to be helpful for your researches. Thanks.
 
