@@ -3,7 +3,7 @@ A mini programming for wavelet transform towards EXAFS
 
 DOI: [10.13140/RG.2.2.11521.61289/1](http:doi.org/10.13140/RG.2.2.11521.61289/1)
 
-## MorletE, a Wavelet transform (Morlet wavelet) program for EXAFS (data from `Athena`)
+## `MorletE`, a Wavelet transform (Morlet wavelet) program for EXAFS (data from `Athena`)
 
 The c code can produce the console program directly in Windows system.
 
